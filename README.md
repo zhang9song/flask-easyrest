@@ -1,3 +1,3 @@
-# flask-easyrest
-Flask-restless for easyui
+# flask-easyrestless
+Flask-restless for easyui.
 Support easyui JSON data.
